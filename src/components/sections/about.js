@@ -132,13 +132,13 @@ const About = () => {
 
   const skills = [
     'JavaScript (ES6+)',
-    'React',
     'TypeScript',
-    'Node.js',
-    'Tailwind CSS',
-    'Express.js',
-    'Next.js',
-    'MongoDB',
+    'React / Next.js',
+    'Node.js / Express.js',
+    'MongoDB / PostgreSQL',
+    'AWS (S3, Lambda)',
+    'Stripe & Plaid',
+    'Claude Code & MCP',
   ];
 
   return (
@@ -149,18 +149,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Muhammad Tahir and I enjoy creating web applications that live on
-              the internet. My interest in web development started back in 2019 when I decided to
-              try editing custom web Applications from scrach — that taught me a lot about HTML,
-              CSS, &amp; JavaScript!
+              Hello! My name is Muhammad Tahir and I enjoy building web applications that people
+              rely on every day. My interest in web development started back in 2019 while studying
+              Computer Science at Sukkur IBA University, where I graduated with a Bronze Medal.
             </p>
 
             <p>
-              Experienced full-stack developer with a strong track record of designing and
-              implementing end-to-end web applications. Proficient in both frontend and back-end
-              technologies, adept at creating responsive user interfaces and scalable server-side
-              solutions. Skilled in a wide range of programming languages and frameworks, dedicated
-              to delivering high-quality, efficient, and user-friendly software products.
+              Today I’m the MERN Lead at{' '}
+              <a href="https://app.digitaltenant.com/" target="_blank" rel="noreferrer">
+                Technoholic Advance Solutions
+              </a>
+              , where I led a team of 5–6 developers to build and launch Digital Tenant, a property
+              management platform used by hundreds of users managing thousands of properties. I own
+              the work end to end: product research, architecture, APIs, third-party integrations
+              (Stripe, Plaid, SignNow, Sure) and production support.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

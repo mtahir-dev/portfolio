@@ -61,26 +61,24 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Muhammad Tahir</h2>;
-  const three = <h3 className="big-heading">Full Stack Developer</h3>;
+  const three = <h3 className="big-heading">I build secure SaaS products.</h3>;
   const four = (
     <>
       <p>
-        I am a skilled software developer with expertise in a range of front-end and back-end
-        technologies. My experience includes building dynamic, responsive web applications using{' '}
-        <a
-          href="https://legacy.reactjs.org/docs/getting-started.html"
-          target="_blank"
-          rel="noreferrer">
-          React
-        </a>
-        .
+        I’m a Senior MERN Stack Engineer and team lead with 5+ years of experience building
+        production SaaS applications, with a focus on fintech and payments integrations. Currently,
+        I’m leading development of{' '}
+        <a href="https://app.digitaltenant.com/" target="_blank" rel="noreferrer">
+          Digital Tenant
+        </a>{' '}
+        at Technoholic Advance Solutions.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.linkedin.com/in/tahir-developer/"
+      href="https://www.linkedin.com/in/mtahir-dev/"
       target="_blank"
       rel="noreferrer">
       Check out my LinkedIn!

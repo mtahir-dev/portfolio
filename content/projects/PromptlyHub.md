@@ -1,16 +1,15 @@
 ---
 date: '2024-02-18'
 title: 'Promptly Hub'
-github: 'https://github.com/mtahiriba/promptly'
+github: 'https://github.com/mtahir-dev/promptly'
 external: 'https://promptly-hub-ai.vercel.app/'
-ios: ''
 tech:
   - Next.js
-  - Next Outh
-  - Tailwind CSS
+  - NextAuth
   - MongoDB
-company: 'Tekvek'
+  - Tailwind CSS
+company: 'Personal'
 showInProjects: true
 ---
 
-A dynamic online platform facilitating the exploration and sharing of AI-generated prompts. Where AI prompts inspire creativity and community collaboration.
+Community platform for discovering and sharing AI-generated prompts, with NextAuth sign-in.

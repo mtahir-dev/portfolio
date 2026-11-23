@@ -1,13 +1,13 @@
 ---
 date: '2023-03-15'
 title: 'Polling App'
-github: 'https://github.com/mtahiriba/Polling-APP'
+github: 'https://github.com/mtahir-dev/Polling-APP'
 external: 'https://polling-app-pink.vercel.app/'
 tech:
   - React.js
   - Bootstrap
 company: 'Sukkur IBA'
-showInProjects: true
+showInProjects: false
 ---
 
-Web based polling application for vote casting using React.js and Bootstrap.
+Web app for creating polls and casting votes.

@@ -1,14 +1,12 @@
 ---
-date: '2022-01-01'
-title: 'Full Stack Developer'
-company: 'Freelancing'
+date: '2020-01-01'
+title: 'Freelance Full Stack Developer'
+company: 'Fiverr'
 location: 'Virtual'
-range: 'March 2022 - present'
+range: '2020 - 2023'
 url: 'https://www.fiverr.com/'
 ---
 
-- As a Full Stack Developer at Fiverr, I spearheaded the development of dynamic web applications, leveraging an array of cutting-edge technologies. With expertise in Next.js, React.js, and Tailwind CSS, I crafted visually stunning and highly responsive frontend interfaces that captivated users.
+- Delivered end-to-end web applications for international clients: gathered requirements, built the product, deployed it and supported it after launch.
 
-- On the backend, I seamlessly integrated Node.js and Express.js, ensuring robust server-side functionalities to power our applications. Leveraging databases such as MongoDB and Postgresql, I implemented efficient data storage and retrieval mechanisms, optimizing performance and scalability.
-
-- Throughout my tenure, I consistently delivered high-quality solutions, meeting project deadlines and exceeding client expectations. My responsibilities encompassed the end-to-end development lifecycle, from conceptualization and design to implementation, testing, and deployment, ensuring the delivery of robust and innovative web applications.
+- Built frontends with Next.js, React.js and Tailwind CSS, and backends with Node.js, Express.js, MongoDB and PostgreSQL.

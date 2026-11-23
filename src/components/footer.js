@@ -83,8 +83,11 @@ const Footer = () => (
     </StyledSocialLinks>
 
     <StyledCredit tabindex="-1">
-      <a href="https://github.com/mtahiriba/portfolio">
-        <div>Designed &amp; Built by Muhammad Tahir</div>
+      <a href="https://github.com/mtahir-dev/portfolio">
+        <div>Built by Muhammad Tahir</div>
+      </a>
+      <a href="https://brittanychiang.com" target="_blank" rel="noreferrer">
+        <div>Design by Brittany Chiang</div>
       </a>
     </StyledCredit>
   </StyledFooter>

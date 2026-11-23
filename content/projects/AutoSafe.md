@@ -4,9 +4,9 @@ title: 'AutoSafe'
 external: 'https://auto-safe.vercel.app/'
 tech:
   - Next.js
-  - MAterial UI
+  - Material UI
 company: 'Tekvek'
-showInProjects: true
+showInProjects: false
 ---
 
-A single page web app For online shopping payment System with "coupon" functionality integrated, built with Next.js and Material UI
+Single-page checkout and payment flow for an online store, with coupon and discount handling.

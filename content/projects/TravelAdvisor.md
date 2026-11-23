@@ -3,14 +3,12 @@ date: '2023-09-30'
 title: 'Travel Advisor'
 github: ''
 external: 'https://my-travel-advisor-blue.vercel.app/login'
-android: ''
 tech:
   - Next.js
   - Material UI
-  - Google API
-  - third party API
+  - Google Maps API
 company: 'Tekvek'
 showInProjects: true
 ---
 
-Travel Advisor Web App seamlessly integrates Google Maps API for comprehensive exploration of restaurants, hotels, and attractions.
+Travel planning app that uses the Google Maps API to find nearby restaurants, hotels and attractions on an interactive map.

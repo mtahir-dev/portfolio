@@ -4,19 +4,11 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/mtahiriba',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/muh___tahir/',
-    },
-    {
-      name: 'Twitter',
-      url: '',
+      url: 'https://github.com/mtahir-dev',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/tahir-developer/',
+      url: 'https://www.linkedin.com/in/mtahir-dev/',
     },
   ],
 
@@ -32,6 +24,10 @@ module.exports = {
     {
       name: 'Work',
       url: '/#projects',
+    },
+    {
+      name: 'Education',
+      url: '/#education',
     },
     {
       name: 'Contact',

@@ -1,14 +1,16 @@
 ---
-date: '2024-08-27'
+date: '2023-08-01'
 title: 'Software Engineer'
 company: 'Tekvek'
 location: 'Karachi, Sindh, Pakistan'
-range: 'Aug 2023 - Present'
+range: 'Aug 2023 - Mar 2024'
 url: 'https://www.tekvek.com/'
 ---
 
-- As a Software Engineer at Tekvek, I've specialized in crafting full-stack web applications. My focus lies primarily in frontend development, utilizing Next.js, React.js, Tailwind CSS, and Material UI. Collaborating closely with design teams, I ensure intuitive user interfaces.
+- Built full stack applications with Next.js, React, Node.js, Express, MongoDB and PostgreSQL in an Agile team.
 
-- On the backend, I leverage Node.js, Express.js, MongoDB, and Postgresql for scalable server-side solutions. Prisma streamlines database interactions for enhanced performance. I'm proficient in Docker containerization, facilitating seamless deployment across environments.
+- Designed RESTful APIs and tuned system performance for efficient frontend–backend communication.
 
-- Testing RESTful APIs is a key responsibility, ensuring functionality and security. I employ comprehensive testing methodologies for robust applications. Adapting to evolving technologies, I drive innovation and excellence in our projects, aligning with Tekvek's vision.
+- Built the backend for an Invoice Management System: 19 modules and 70+ APIs that automate invoicing and track financial workflows.
+
+- Shipped a Health Recommendation System (personalised recommendations exported as PDF reports) and a Travel Advisor app using the Google Maps API.

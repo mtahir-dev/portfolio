@@ -1,14 +1,14 @@
 ---
 date: '2023-05-25'
 title: 'FunOlympic'
-github: 'https://github.com/mtahiriba/FunOlympic'
+github: 'https://github.com/mtahir-dev/FunOlympic'
 external: 'https://fun-olympic-gray.vercel.app/'
 tech:
-  - React
+  - React.js
   - Tailwind CSS
   - Bootstrap
 company: 'Fiverr'
-showInProjects: true
+showInProjects: false
 ---
 
-Font-end Web application for live Olympic game streaming and interactive discussions using React.js and Tailwind CSS.
+Frontend for a live Olympic games streaming platform with interactive discussion threads.

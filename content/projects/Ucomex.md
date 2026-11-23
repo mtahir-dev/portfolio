@@ -3,13 +3,12 @@ date: '2024-02-20'
 title: 'UCOMEX'
 github: ''
 external: 'https://ucomex-shipping-company.vercel.app/'
-android: ''
 tech:
   - Next.js
   - Tailwind CSS
-  - API Integration
+  - REST APIs
 company: 'Tekvek'
-showInProjects: true
+showInProjects: false
 ---
 
-Next.js-powered shipping company website offering seamless logistics management and cutting-edge technology for streamlined operations.
+Website for a shipping company that lets customers look up and track their shipment records through API integration.

@@ -1,15 +1,14 @@
 ---
 date: '2024-02-19'
 title: 'Share Me'
-github: 'https://github.com/mtahiriba/Share_Me'
+github: 'https://github.com/mtahir-dev/Share_Me'
 external: 'https://share-me-beryl.vercel.app/'
-android: ''
 tech:
   - React.js
   - Tailwind CSS
-  - Google Login
-company: ''
-showInProjects: true
+  - Google OAuth
+company: 'Personal'
+showInProjects: false
 ---
 
-Web-based application that allows users to share their pictures and save pictures from others, like Pinterest.
+Pinterest-style image sharing app: sign in with Google, upload pictures and save pins from other users.

@@ -1,13 +1,14 @@
 ---
 date: '2023-10-25'
-title: 'Map Health Recommendation'
+title: 'Health Recommendation System'
 github: ''
-external: 'https://map-health-recommendation.vercel.app/'
+external: ''
 tech:
   - Next.js
-  - Server side
-company: 'Tekvk'
+  - Material UI
+  - PDF export
+company: 'Tekvek'
 showInProjects: true
 ---
 
-Map Health Recommendation System leverages Next.js to provide personalized health advice based on age and user input
+Health app that generates personalised recommendations from a user's age and inputs, and exports them as a downloadable PDF report.
